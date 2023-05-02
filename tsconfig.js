@@ -1,0 +1,3 @@
+"angularCompilerOptions": {
+    "strictTemplates": true
+  }
